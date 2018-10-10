@@ -1,5 +1,5 @@
 #This is a test
-x = 1500 +3
+x = 1800 +3
 print(x) 
 
-print (x) + 100 + 3
+print (x) + 100 + 9
